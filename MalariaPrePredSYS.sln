@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalariaPrePredSYS", "MalariaPrePredSYS\MalariaPrePredSYS.csproj", "{D2746E9C-756D-4483-A603-DA1F7E895531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalariaPrePredSYS.Tests", "MalariaPrePredSYS.Tests\MalariaPrePredSYS.Tests.csproj", "{89A614FB-C777-4DBC-8C70-504961D0AB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2746E9C-756D-4483-A603-DA1F7E895531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2746E9C-756D-4483-A603-DA1F7E895531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2746E9C-756D-4483-A603-DA1F7E895531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2746E9C-756D-4483-A603-DA1F7E895531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A614FB-C777-4DBC-8C70-504961D0AB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A614FB-C777-4DBC-8C70-504961D0AB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A614FB-C777-4DBC-8C70-504961D0AB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A614FB-C777-4DBC-8C70-504961D0AB56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D6946FE-7726-40DA-B774-597BD6B5BD65}
+	EndGlobalSection
+EndGlobal
